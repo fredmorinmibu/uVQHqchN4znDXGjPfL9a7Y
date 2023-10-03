@@ -1,0 +1,36 @@
+{
+  "id": "712ab28d-e87f-435d-9f8c-fe4ddf3931a2",
+  "name": "BioTech Customisation PLUS",
+  "publisher": "Mibusoft",
+  "version": "22.0.0.1",
+  "brief": "",
+  "description": "Mibusoft Customisation for -BioTech 2",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "suppressWarnings": [ "AL0604", "AL0106" ],  
+  "features": [
+    "NoImplicitWith"
+  ]
+}
+
+
+

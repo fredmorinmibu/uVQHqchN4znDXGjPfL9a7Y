@@ -1,6 +1,5 @@
 *.app
-.vscode
-.snapshots
-.alpackages
+.snapshots/
+.alpackages/
 
 
